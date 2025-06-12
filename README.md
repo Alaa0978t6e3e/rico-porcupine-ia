@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "./assets/rico-logo.png"; // تأكد من وجود الصورة في المسار الصحيح
+import logo from "./assets/rico-logo.png"; 
 
 export default function RicoThePorcupineIA() {
   return (
